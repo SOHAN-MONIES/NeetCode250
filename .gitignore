@@ -1,0 +1,8 @@
+*
+!*.*
+!*/
+.vscode
+.idea
+random.cpp
+*/*.dSYM
+.clang-tidy
